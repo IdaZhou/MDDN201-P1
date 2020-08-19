@@ -1,0 +1,99 @@
+body{
+
+    padding: 0;
+    width: 1500px;
+    height: 6000px;
+    margin: 0 auto;
+}
+.title{
+    height: 400px;
+    width: 190px;
+    position: absolute;
+    top: 80px;
+    left: 60px;
+}
+ul{
+    color: white;
+    list-style-type: none;
+
+}
+
+li a {
+    color: #fff9ec;
+    text-decoration: none;
+    line-height: 1.5em;
+
+}
+
+li a:hover {
+    color: #ed1c24;
+}
+.nono {
+    width: 250px;
+    height: 40px;
+    background-color: #020000;
+    margin: 0 auto;
+    border-radius: 50px;
+    text-align: center;
+}
+.nono a{
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    line-height: 40px;
+    color: #FFFFFF;
+    font-family: "Calibri Light";
+
+}
+.home{
+    height: 580px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.about{
+    height: 580px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.aim{
+    height: 580px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.target{
+    height: 580px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.inspiration{
+    height: 580px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.design{
+    height: 570px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.more{
+    height:2300px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.personas{
+    height: 580px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
